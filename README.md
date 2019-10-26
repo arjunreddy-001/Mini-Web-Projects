@@ -7,4 +7,4 @@ Collection of some mini web projects
 4. [Text Animations](https://arjunreddy-001.github.io/Mini-Web-Projects/Text%20Animations/)
 5. [Full Page Animation](https://arjunreddy-001.github.io/Mini-Web-Projects/Full%20Page%20Animation/)
 6. [Automated Responsive Images Markup](https://arjunreddy-001.github.io/Mini-Web-Projects/Automated%20Responsive%20Images%20Markup/)
-7. <a href="www.google.com" target="_blank">Launch Google in a new window</a>
+7. <a href="https://www.google.com" target="_blank">Launch Google in a new window</a>
